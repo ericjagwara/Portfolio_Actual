@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Block access to source/build internals
+Disallow: /src/
+
+# Crawl-delay for polite bots
+Crawl-delay: 10
+
+# Sitemap - relative URL for Netlify compatibility
+Sitemap: /sitemap.xml

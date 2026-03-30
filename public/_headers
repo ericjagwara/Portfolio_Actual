@@ -1,0 +1,23 @@
+# Netlify Headers Configuration
+# Ensures proper MIME types for sitemap and other files
+
+/sitemap.xml
+  Content-Type: application/xml; charset=utf-8
+  Cache-Control: public, max-age=3600
+
+/robots.txt
+  Content-Type: text/plain; charset=utf-8
+  Cache-Control: public, max-age=86400
+
+*.xml
+  Content-Type: application/xml; charset=utf-8
+
+*.json
+  Content-Type: application/json; charset=utf-8
+
+# Cache static assets
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/images/*
+  Cache-Control: public, max-age=86400

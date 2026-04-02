@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+# Block access to source/build internals
+Disallow: /src/
+
+# Crawl-delay for polite bots
+Crawl-delay: 10
+
+# Sitemap - absolute URL for Google Search Console compatibility
+Sitemap: https://ericjagwara.com/sitemap.xml

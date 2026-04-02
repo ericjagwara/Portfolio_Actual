@@ -1,13 +1,10 @@
 import { Quote } from "lucide-react";
-import { Helmet } from "react-helmet-async";
 import { C } from "@/constants/theme";
 import { FadeIn, Cd, EL, IL } from "@/components/common";
 
 interface TestimonialsSectionProps {
   setPage: (page: string) => void;
 }
-
-const BASE_URL = "https://ericjagwara.online";
 
 export function TestimonialsSection({ setPage }: TestimonialsSectionProps) {
   const testimonials = [
@@ -52,46 +49,11 @@ export function TestimonialsSection({ setPage }: TestimonialsSectionProps) {
     },
   ];
 
-  // Generate JSON-LD for testimonials/reviews
-  const reviewSchema = {
-    "@context": "https://schema.org",
-    "@type": "Person",
-    "@id": `${BASE_URL}/#person`,
-    "name": "Eric Jagwara",
-    "aggregateRating": {
-      "@type": "AggregateRating",
-      "ratingValue": "5",
-      "bestRating": "5",
-      "ratingCount": String(testimonials.length),
-      "reviewCount": String(testimonials.length)
-    },
-    "review": testimonials.map((t) => ({
-      "@type": "Review",
-      "author": {
-        "@type": "Person",
-        "name": t.name,
-        "jobTitle": t.title,
-        "worksFor": {
-          "@type": "Organization",
-          "name": t.org
-        }
-      },
-      "reviewBody": t.quote,
-      "reviewRating": {
-        "@type": "Rating",
-        "ratingValue": "5",
-        "bestRating": "5"
-      }
-    }))
-  };
+  // Note: Google does not support review/aggregateRating on Person type
+  // Testimonials display visually but structured data is omitted to avoid GSC errors
 
   return (
     <section className="py-16 px-6" style={{ background: `${C.card}80` }}>
-      <Helmet>
-        <script type="application/ld+json">
-          {JSON.stringify(reviewSchema)}
-        </script>
-      </Helmet>
       <div className="max-w-6xl mx-auto">
         <FadeIn className="mb-9">
           <h2

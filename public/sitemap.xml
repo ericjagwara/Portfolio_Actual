@@ -3,645 +3,645 @@
 
   <!-- Static Pages -->
   <url>
-    <loc>https://ericjagwara.github.io/</loc>
-    <lastmod>2026-03-21</lastmod>
+    <loc>https://ericjagwara.online/</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/experience</loc>
-    <lastmod>2026-03-21</lastmod>
+    <loc>https://ericjagwara.online/experience</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/research</loc>
-    <lastmod>2026-03-21</lastmod>
+    <loc>https://ericjagwara.online/research</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/community</loc>
-    <lastmod>2026-03-21</lastmod>
+    <loc>https://ericjagwara.online/community</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/open-source</loc>
-    <lastmod>2026-03-21</lastmod>
+    <loc>https://ericjagwara.online/open-source</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog</loc>
-    <lastmod>2026-03-21</lastmod>
+    <loc>https://ericjagwara.online/blog</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/events</loc>
-    <lastmod>2026-03-21</lastmod>
+    <loc>https://ericjagwara.online/events</loc>
+    <lastmod>2026-04-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <!-- Blog Posts -->
   <url>
-    <loc>https://ericjagwara.github.io/blog/o-futuro-das-cidades-inteligentes-em-angola-luanda-2035</loc>
+    <loc>https://ericjagwara.online/blog/o-futuro-das-cidades-inteligentes-em-angola-luanda-2035</loc>
     <lastmod>2026-03-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/lavenir-de-lia-en-afrique-francophone-vision-2030</loc>
+    <loc>https://ericjagwara.online/blog/lavenir-de-lia-en-afrique-francophone-vision-2030</loc>
     <lastmod>2026-03-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/why-2026-is-the-year-the-african-ai-leapfrog-becomes-tangible</loc>
+    <loc>https://ericjagwara.online/blog/why-2026-is-the-year-the-african-ai-leapfrog-becomes-tangible</loc>
     <lastmod>2026-03-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-para-a-transicao-energetica-de-angola</loc>
+    <loc>https://ericjagwara.online/blog/ia-para-a-transicao-energetica-de-angola</loc>
     <lastmod>2026-03-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/predicting-the-first-billion-dollar-ai-company-built-by-a-single-founder</loc>
+    <loc>https://ericjagwara.online/blog/predicting-the-first-billion-dollar-ai-company-built-by-a-single-founder</loc>
     <lastmod>2026-03-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/connecter-la-rdc-au-monde-ia-et-infrastructure-numerique</loc>
+    <loc>https://ericjagwara.online/blog/connecter-la-rdc-au-monde-ia-et-infrastructure-numerique</loc>
     <lastmod>2026-03-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-e-turismo-em-angola-oportunidades-no-namibe-e-kalandula</loc>
+    <loc>https://ericjagwara.online/blog/ia-e-turismo-em-angola-oportunidades-no-namibe-e-kalandula</loc>
     <lastmod>2026-03-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/the-vision-of-a-pan-african-ai-strategy-for-data-sovereignty</loc>
+    <loc>https://ericjagwara.online/blog/the-vision-of-a-pan-african-ai-strategy-for-data-sovereignty</loc>
     <lastmod>2026-02-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/analise-de-sentimento-para-o-mercado-consumidor-angolano</loc>
+    <loc>https://ericjagwara.online/blog/analise-de-sentimento-para-o-mercado-consumidor-angolano</loc>
     <lastmod>2026-02-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/curating-high-quality-datasets-for-instruction-fine-tuning</loc>
+    <loc>https://ericjagwara.online/blog/curating-high-quality-datasets-for-instruction-fine-tuning</loc>
     <lastmod>2026-02-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-pour-la-gestion-des-catastrophes-naturelles-en-rdc</loc>
+    <loc>https://ericjagwara.online/blog/ia-pour-la-gestion-des-catastrophes-naturelles-en-rdc</loc>
     <lastmod>2026-02-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-e-a-economia-azul-recursos-marinhos-de-angola</loc>
+    <loc>https://ericjagwara.online/blog/ia-e-a-economia-azul-recursos-marinhos-de-angola</loc>
     <lastmod>2026-02-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/how-to-pitch-an-african-ai-startup-to-silicon-valley-vcs</loc>
+    <loc>https://ericjagwara.online/blog/how-to-pitch-an-african-ai-startup-to-silicon-valley-vcs</loc>
     <lastmod>2026-02-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/visao-por-computador-para-a-industria-mineira-angolana</loc>
+    <loc>https://ericjagwara.online/blog/visao-por-computador-para-a-industria-mineira-angolana</loc>
     <lastmod>2026-02-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/building-ai-systems-that-survive-african-currency-fluctuations</loc>
+    <loc>https://ericjagwara.online/blog/building-ai-systems-that-survive-african-currency-fluctuations</loc>
     <lastmod>2026-02-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/protection-des-donnees-personnelles-vers-un-cadre-legal-en-rdc</loc>
+    <loc>https://ericjagwara.online/blog/protection-des-donnees-personnelles-vers-un-cadre-legal-en-rdc</loc>
     <lastmod>2026-02-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/como-a-ia-esta-a-mudar-o-ensino-superior-em-angola</loc>
+    <loc>https://ericjagwara.online/blog/como-a-ia-esta-a-mudar-o-ensino-superior-em-angola</loc>
     <lastmod>2026-02-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/how-ai-agents-will-communicate-in-luganda-swahili-and-wolof-by-2027</loc>
+    <loc>https://ericjagwara.online/blog/how-ai-agents-will-communicate-in-luganda-swahili-and-wolof-by-2027</loc>
     <lastmod>2026-01-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/o-ecossistema-de-startups-de-ia-em-luanda-perspectiva-2026</loc>
+    <loc>https://ericjagwara.online/blog/o-ecossistema-de-startups-de-ia-em-luanda-perspectiva-2026</loc>
     <lastmod>2026-01-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/why-dakar-is-positioning-itself-as-the-gateway-for-francophone-ai</loc>
+    <loc>https://ericjagwara.online/blog/why-dakar-is-positioning-itself-as-the-gateway-for-francophone-ai</loc>
     <lastmod>2026-01-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/energie-renouvelable-et-ia-lavenir-energetique-de-la-rdc</loc>
+    <loc>https://ericjagwara.online/blog/energie-renouvelable-et-ia-lavenir-energetique-de-la-rdc</loc>
     <lastmod>2026-01-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-na-modernizacao-da-administracao-publica-angolana</loc>
+    <loc>https://ericjagwara.online/blog/ia-na-modernizacao-da-administracao-publica-angolana</loc>
     <lastmod>2026-01-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/edge-ai-for-climate-resilient-farming-in-zimbabwes-matabeleland</loc>
+    <loc>https://ericjagwara.online/blog/edge-ai-for-climate-resilient-farming-in-zimbabwes-matabeleland</loc>
     <lastmod>2026-01-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-e-sustentabilidade-protegendo-a-floresta-do-maiombe</loc>
+    <loc>https://ericjagwara.online/blog/ia-e-sustentabilidade-protegendo-a-floresta-do-maiombe</loc>
     <lastmod>2026-01-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ai-powered-load-shedding-prediction-and-grid-balancing-in-south-africa</loc>
+    <loc>https://ericjagwara.online/blog/ai-powered-load-shedding-prediction-and-grid-balancing-in-south-africa</loc>
     <lastmod>2026-01-10</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/lecosysteme-fintech-de-la-rdc-opportunites-pour-lia</loc>
+    <loc>https://ericjagwara.online/blog/lecosysteme-fintech-de-la-rdc-opportunites-pour-lia</loc>
     <lastmod>2026-01-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/angola-2030-roteiro-estrategico-para-a-inteligencia-artificial</loc>
+    <loc>https://ericjagwara.online/blog/angola-2030-roteiro-estrategico-para-a-inteligencia-artificial</loc>
     <lastmod>2026-01-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/scaling-nigerian-ai-startups-from-lagos-to-continental-markets</loc>
+    <loc>https://ericjagwara.online/blog/scaling-nigerian-ai-startups-from-lagos-to-continental-markets</loc>
     <lastmod>2026-01-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/diagnostico-medico-remoto-com-ia-no-namibe</loc>
+    <loc>https://ericjagwara.online/blog/diagnostico-medico-remoto-com-ia-no-namibe</loc>
     <lastmod>2025-12-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/implementing-zero-trust-architecture-for-kampala-based-tech-firms</loc>
+    <loc>https://ericjagwara.online/blog/implementing-zero-trust-architecture-for-kampala-based-tech-firms</loc>
     <lastmod>2025-12-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-e-inclusao-financeira-em-angola</loc>
+    <loc>https://ericjagwara.online/blog/ia-e-inclusao-financeira-em-angola</loc>
     <lastmod>2025-12-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/the-rise-of-npu-centric-smartphones-in-emerging-markets</loc>
+    <loc>https://ericjagwara.online/blog/the-rise-of-npu-centric-smartphones-in-emerging-markets</loc>
     <lastmod>2025-12-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/prevision-des-crises-humanitaires-en-rdc-par-lia</loc>
+    <loc>https://ericjagwara.online/blog/prevision-des-crises-humanitaires-en-rdc-par-lia</loc>
     <lastmod>2025-12-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/seguranca-de-dados-e-privacidade-na-era-da-ia-em-luanda</loc>
+    <loc>https://ericjagwara.online/blog/seguranca-de-dados-e-privacidade-na-era-da-ia-em-luanda</loc>
     <lastmod>2025-12-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/containerizing-llm-workflows-for-scalable-kubernetes-deployments</loc>
+    <loc>https://ericjagwara.online/blog/containerizing-llm-workflows-for-scalable-kubernetes-deployments</loc>
     <lastmod>2025-12-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/adopcao-de-ia-no-setor-de-seguros-de-angola</loc>
+    <loc>https://ericjagwara.online/blog/adopcao-de-ia-no-setor-de-seguros-de-angola</loc>
     <lastmod>2025-12-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/building-an-observability-stack-for-production-agentic-ai-workflows</loc>
+    <loc>https://ericjagwara.online/blog/building-an-observability-stack-for-production-agentic-ai-workflows</loc>
     <lastmod>2025-12-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-et-education-en-francais-pour-la-jeunesse-congolaise</loc>
+    <loc>https://ericjagwara.online/blog/ia-et-education-en-francais-pour-la-jeunesse-congolaise</loc>
     <lastmod>2025-12-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/previsao-de-receita-com-ml-para-startups-angolanas</loc>
+    <loc>https://ericjagwara.online/blog/previsao-de-receita-com-ml-para-startups-angolanas</loc>
     <lastmod>2025-12-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/predicting-ugandas-digital-economy-growth-through-2030</loc>
+    <loc>https://ericjagwara.online/blog/predicting-ugandas-digital-economy-growth-through-2030</loc>
     <lastmod>2025-11-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-no-sector-logistico-de-angola</loc>
+    <loc>https://ericjagwara.online/blog/ia-no-sector-logistico-de-angola</loc>
     <lastmod>2025-11-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/securing-mobile-money-ecosystems-with-real-time-ai-fraud-detection-in-uganda</loc>
+    <loc>https://ericjagwara.online/blog/securing-mobile-money-ecosystems-with-real-time-ai-fraud-detection-in-uganda</loc>
     <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/vision-par-ordinateur-pour-la-surveillance-des-routes-en-rdc</loc>
+    <loc>https://ericjagwara.online/blog/vision-par-ordinateur-pour-la-surveillance-des-routes-en-rdc</loc>
     <lastmod>2025-11-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/nlp-para-as-linguas-nacionais-de-angola</loc>
+    <loc>https://ericjagwara.online/blog/nlp-para-as-linguas-nacionais-de-angola</loc>
     <lastmod>2025-11-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/using-direct-preference-optimization-to-align-llm-behavior-without-reward-models</loc>
+    <loc>https://ericjagwara.online/blog/using-direct-preference-optimization-to-align-llm-behavior-without-reward-models</loc>
     <lastmod>2025-11-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/visao-computacional-para-monitorizacao-de-trafego-em-luanda</loc>
+    <loc>https://ericjagwara.online/blog/visao-computacional-para-monitorizacao-de-trafego-em-luanda</loc>
     <lastmod>2025-11-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/why-hardware-sovereignty-matters-for-developing-nations-building-ai</loc>
+    <loc>https://ericjagwara.online/blog/why-hardware-sovereignty-matters-for-developing-nations-building-ai</loc>
     <lastmod>2025-11-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/systemes-de-paiement-intelligent-pour-les-marches-informels-de-kinshasa</loc>
+    <loc>https://ericjagwara.online/blog/systemes-de-paiement-intelligent-pour-les-marches-informels-de-kinshasa</loc>
     <lastmod>2025-11-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/rag-para-documentos-juridicos-angolanos</loc>
+    <loc>https://ericjagwara.online/blog/rag-para-documentos-juridicos-angolanos</loc>
     <lastmod>2025-11-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/scaling-vector-search-to-billions-of-high-dimensional-embeddings</loc>
+    <loc>https://ericjagwara.online/blog/scaling-vector-search-to-billions-of-high-dimensional-embeddings</loc>
     <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/por-que-angola-deve-liderar-a-ia-no-espaco-lusofono-africano</loc>
+    <loc>https://ericjagwara.online/blog/por-que-angola-deve-liderar-a-ia-no-espaco-lusofono-africano</loc>
     <lastmod>2025-10-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/building-multi-modal-rag-pipelines-that-process-vision-and-audio</loc>
+    <loc>https://ericjagwara.online/blog/building-multi-modal-rag-pipelines-that-process-vision-and-audio</loc>
     <lastmod>2025-10-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-et-logistique-fluviale-sur-le-fleuve-congo</loc>
+    <loc>https://ericjagwara.online/blog/ia-et-logistique-fluviale-sur-le-fleuve-congo</loc>
     <lastmod>2025-10-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/chatbots-em-portugues-de-angola-para-o-sector-do-retalho</loc>
+    <loc>https://ericjagwara.online/blog/chatbots-em-portugues-de-angola-para-o-sector-do-retalho</loc>
     <lastmod>2025-10-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/real-time-threat-hunting-with-ai-in-enterprise-security-operations-centers</loc>
+    <loc>https://ericjagwara.online/blog/real-time-threat-hunting-with-ai-in-enterprise-security-operations-centers</loc>
     <lastmod>2025-10-18</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-na-gestao-de-pescas-preservando-a-costa-angolana</loc>
+    <loc>https://ericjagwara.online/blog/ia-na-gestao-de-pescas-preservando-a-costa-angolana</loc>
     <lastmod>2025-10-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/open-source-versus-closed-source-llms-security-trade-offs</loc>
+    <loc>https://ericjagwara.online/blog/open-source-versus-closed-source-llms-security-trade-offs</loc>
     <lastmod>2025-10-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/formation-en-ia-pour-les-developpeurs-congolais-etat-des-lieux</loc>
+    <loc>https://ericjagwara.online/blog/formation-en-ia-pour-les-developpeurs-congolais-etat-des-lieux</loc>
     <lastmod>2025-10-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/o-futuro-do-trabalho-em-angola-na-era-da-automacao-com-ia</loc>
+    <loc>https://ericjagwara.online/blog/o-futuro-do-trabalho-em-angola-na-era-da-automacao-com-ia</loc>
     <lastmod>2025-10-07</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/implementing-differential-privacy-for-sensitive-healthcare-datasets</loc>
+    <loc>https://ericjagwara.online/blog/implementing-differential-privacy-for-sensitive-healthcare-datasets</loc>
     <lastmod>2025-10-04</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/protegendo-infraestruturas-criticas-de-angola-com-ia</loc>
+    <loc>https://ericjagwara.online/blog/protegendo-infraestruturas-criticas-de-angola-com-ia</loc>
     <lastmod>2025-09-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/semantic-caching-strategies-for-reducing-llm-api-costs-at-scale</loc>
+    <loc>https://ericjagwara.online/blog/semantic-caching-strategies-for-reducing-llm-api-costs-at-scale</loc>
     <lastmod>2025-09-27</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/souverainete-numerique-et-gouvernance-des-donnees-en-rdc</loc>
+    <loc>https://ericjagwara.online/blog/souverainete-numerique-et-gouvernance-des-donnees-en-rdc</loc>
     <lastmod>2025-09-25</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-no-setor-imobiliario-em-luanda-previsao-de-precos</loc>
+    <loc>https://ericjagwara.online/blog/ia-no-setor-imobiliario-em-luanda-previsao-de-precos</loc>
     <lastmod>2025-09-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/why-kampala-is-an-emerging-testing-ground-for-edge-ai-traffic-management</loc>
+    <loc>https://ericjagwara.online/blog/why-kampala-is-an-emerging-testing-ground-for-edge-ai-traffic-management</loc>
     <lastmod>2025-09-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/a-revolucao-do-mobile-money-em-angola-impulsionada-pela-ia</loc>
+    <loc>https://ericjagwara.online/blog/a-revolucao-do-mobile-money-em-angola-impulsionada-pela-ia</loc>
     <lastmod>2025-09-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/building-luganda-voice-agents-for-rural-agricultural-fintech-in-uganda</loc>
+    <loc>https://ericjagwara.online/blog/building-luganda-voice-agents-for-rural-agricultural-fintech-in-uganda</loc>
     <lastmod>2025-09-13</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/lia-pour-la-conservation-de-la-biodiversite-dans-le-bassin-du-congo</loc>
+    <loc>https://ericjagwara.online/blog/lia-pour-la-conservation-de-la-biodiversite-dans-le-bassin-du-congo</loc>
     <lastmod>2025-09-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/atrair-capital-de-risco-com-ia-guia-para-startups-de-luanda</loc>
+    <loc>https://ericjagwara.online/blog/atrair-capital-de-risco-com-ia-guia-para-startups-de-luanda</loc>
     <lastmod>2025-09-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/how-flashattention-3-maximizes-gpu-memory-bandwidth-utilization</loc>
+    <loc>https://ericjagwara.online/blog/how-flashattention-3-maximizes-gpu-memory-bandwidth-utilization</loc>
     <lastmod>2025-09-06</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/otimizacao-da-rede-de-telecomunicacoes-com-ia-em-benguela</loc>
+    <loc>https://ericjagwara.online/blog/otimizacao-da-rede-de-telecomunicacoes-com-ia-em-benguela</loc>
     <lastmod>2025-09-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/building-robust-llm-evaluation-pipelines-with-ragas-and-deepeval</loc>
+    <loc>https://ericjagwara.online/blog/building-robust-llm-evaluation-pipelines-with-ragas-and-deepeval</loc>
     <lastmod>2025-08-30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/detection-de-fraude-par-ia-dans-le-secteur-mobile-money-en-rdc</loc>
+    <loc>https://ericjagwara.online/blog/detection-de-fraude-par-ia-dans-le-secteur-mobile-money-en-rdc</loc>
     <lastmod>2025-08-28</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/modelagem-preditiva-para-a-industria-de-diamantes-em-lunda-sul</loc>
+    <loc>https://ericjagwara.online/blog/modelagem-preditiva-para-a-industria-de-diamantes-em-lunda-sul</loc>
     <lastmod>2025-08-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/using-knowledge-graphs-to-reduce-llm-hallucinations-in-enterprise</loc>
+    <loc>https://ericjagwara.online/blog/using-knowledge-graphs-to-reduce-llm-hallucinations-in-enterprise</loc>
     <lastmod>2025-08-23</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/o-papel-dos-llms-em-portugues-na-educacao-digital-angolana</loc>
+    <loc>https://ericjagwara.online/blog/o-papel-dos-llms-em-portugues-na-educacao-digital-angolana</loc>
     <lastmod>2025-08-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/how-continuous-batching-doubles-inference-throughput-in-production</loc>
+    <loc>https://ericjagwara.online/blog/how-continuous-batching-doubles-inference-throughput-in-production</loc>
     <lastmod>2025-08-16</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/kinshasa-future-hub-technologique-de-lafrique-centrale</loc>
+    <loc>https://ericjagwara.online/blog/kinshasa-future-hub-technologique-de-lafrique-centrale</loc>
     <lastmod>2025-08-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/como-a-ia-pode-melhorar-a-eficiencia-dos-portos-de-angola</loc>
+    <loc>https://ericjagwara.online/blog/como-a-ia-pode-melhorar-a-eficiencia-dos-portos-de-angola</loc>
     <lastmod>2025-08-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/implementing-context-aware-document-chunking-for-production-rag</loc>
+    <loc>https://ericjagwara.online/blog/implementing-context-aware-document-chunking-for-production-rag</loc>
     <lastmod>2025-08-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-e-a-transformacao-da-agricultura-em-malanje</loc>
+    <loc>https://ericjagwara.online/blog/ia-e-a-transformacao-da-agricultura-em-malanje</loc>
     <lastmod>2025-08-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/the-math-behind-lora-and-why-it-transformed-fine-tuning-economics</loc>
+    <loc>https://ericjagwara.online/blog/the-math-behind-lora-and-why-it-transformed-fine-tuning-economics</loc>
     <lastmod>2025-08-02</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/agriculture-intelligente-dans-le-kivu-ia-et-securite-alimentaire</loc>
+    <loc>https://ericjagwara.online/blog/agriculture-intelligente-dans-le-kivu-ia-et-securite-alimentaire</loc>
     <lastmod>2025-07-31</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/soberania-de-dados-sob-o-quadro-regulamentar-angolano-para-ia</loc>
+    <loc>https://ericjagwara.online/blog/soberania-de-dados-sob-o-quadro-regulamentar-angolano-para-ia</loc>
     <lastmod>2025-07-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/deploying-quantized-7b-models-on-entry-level-smartphones</loc>
+    <loc>https://ericjagwara.online/blog/deploying-quantized-7b-models-on-entry-level-smartphones</loc>
     <lastmod>2025-07-26</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/por-que-os-investidores-estao-atentos-as-startups-de-ia-em-luanda</loc>
+    <loc>https://ericjagwara.online/blog/por-que-os-investidores-estao-atentos-as-startups-de-ia-em-luanda</loc>
     <lastmod>2025-07-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/prompt-injection-is-the-new-sql-injection-threat-models-for-2026</loc>
+    <loc>https://ericjagwara.online/blog/prompt-injection-is-the-new-sql-injection-threat-models-for-2026</loc>
     <lastmod>2025-07-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/ia-et-exploitation-miniere-responsable-au-katanga</loc>
+    <loc>https://ericjagwara.online/blog/ia-et-exploitation-miniere-responsable-au-katanga</loc>
     <lastmod>2025-07-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/estrategias-de-ia-para-a-gestao-de-dados-de-saude-em-angola</loc>
+    <loc>https://ericjagwara.online/blog/estrategias-de-ia-para-a-gestao-de-dados-de-saude-em-angola</loc>
     <lastmod>2025-07-15</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/kv-cache-optimization-strategies-for-high-throughput-llm-inference</loc>
+    <loc>https://ericjagwara.online/blog/kv-cache-optimization-strategies-for-high-throughput-llm-inference</loc>
     <lastmod>2025-07-12</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/edge-ai-para-redes-de-baixa-conectividade-no-interior-de-angola</loc>
+    <loc>https://ericjagwara.online/blog/edge-ai-para-redes-de-baixa-conectividade-no-interior-de-angola</loc>
     <lastmod>2025-07-08</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/orchestrating-multi-agent-systems-for-complex-task-automation</loc>
+    <loc>https://ericjagwara.online/blog/orchestrating-multi-agent-systems-for-complex-task-automation</loc>
     <lastmod>2025-07-05</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/construire-des-modeles-de-langage-pour-le-lingala-et-le-swahili-congolais</loc>
+    <loc>https://ericjagwara.online/blog/construire-des-modeles-de-langage-pour-le-lingala-et-le-swahili-congolais</loc>
     <lastmod>2025-07-03</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/como-a-ia-pode-acelerar-a-diversificacao-economica-em-angola</loc>
+    <loc>https://ericjagwara.online/blog/como-a-ia-pode-acelerar-a-diversificacao-economica-em-angola</loc>
     <lastmod>2025-07-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/fine-tuning-7b-parameter-models-for-niche-domain-expertise</loc>
+    <loc>https://ericjagwara.online/blog/fine-tuning-7b-parameter-models-for-niche-domain-expertise</loc>
     <lastmod>2025-06-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/o-futuro-da-ia-no-sector-petrolifero-em-luanda</loc>
+    <loc>https://ericjagwara.online/blog/o-futuro-da-ia-no-sector-petrolifero-em-luanda</loc>
     <lastmod>2025-06-24</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/why-hybrid-search-outperforms-pure-vector-retrieval-in-rag-pipelines</loc>
+    <loc>https://ericjagwara.online/blog/why-hybrid-search-outperforms-pure-vector-retrieval-in-rag-pipelines</loc>
     <lastmod>2025-06-21</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/lintelligence-artificielle-au-service-du-systeme-de-sante-en-rdc</loc>
+    <loc>https://ericjagwara.online/blog/lintelligence-artificielle-au-service-du-systeme-de-sante-en-rdc</loc>
     <lastmod>2025-06-20</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/implementacao-de-ia-na-ciberseguranca-para-bancos-angolanos</loc>
+    <loc>https://ericjagwara.online/blog/implementacao-de-ia-na-ciberseguranca-para-bancos-angolanos</loc>
     <lastmod>2025-06-17</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://ericjagwara.github.io/blog/building-self-correcting-agentic-workflows-with-langgraph</loc>
+    <loc>https://ericjagwara.online/blog/building-self-correcting-agentic-workflows-with-langgraph</loc>
     <lastmod>2025-06-14</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
